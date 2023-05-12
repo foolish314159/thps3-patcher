@@ -1,0 +1,3 @@
+[submodule "win32-process-wrapper"]
+	path = win32-process-wrapper
+	url = git@github.com:foolish314159/win32-process-wrapper.git
